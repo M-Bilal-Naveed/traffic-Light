@@ -1,0 +1,37 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+div {
+    margin: auto;
+    margin-top: 12%;
+    background-color: black;
+    width: 104px;
+    height: 270px;
+    border-style: dotted;
+}
+#b{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color:red;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+#a {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: green;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+#c {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: yellow;
+    margin-top: 25px;
+    margin-left: 25px;
+}
